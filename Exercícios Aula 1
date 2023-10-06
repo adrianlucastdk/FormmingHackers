@@ -1,0 +1,15 @@
+Exercício Aula 1 - Google Dorks
+
+1. Montar uma dork pra achar site em WordPress
+2. 20 Exemplos de string pra montar dork
+
+Respostas : 
+
+1.
+a. inurl:/wp-content/             (Encontrar sites WordPress pela pasta)
+b. inurl:/wp-login.php            (Encontrar sites pelo login do WordPress)
+c. intext:"Powered by WordPress"  (Encontrar sites feitos pelo WordPress)
+
+2.
+
+
