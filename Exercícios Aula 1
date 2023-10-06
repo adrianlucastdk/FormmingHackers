@@ -11,5 +11,6 @@ b. inurl:/wp-login.php            (Encontrar sites pelo login do WordPress)
 c. intext:"Powered by WordPress"  (Encontrar sites feitos pelo WordPress)
 
 2.
+a. inurl:"adminLogin/" intitle:"Admin Panel"
 
 
