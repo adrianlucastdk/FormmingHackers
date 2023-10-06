@@ -12,5 +12,5 @@ c. intext:"Powered by WordPress"  (Encontrar sites feitos pelo WordPress)
 
 2.
 a. inurl:"adminLogin/" intitle:"Admin Panel"
-
+b. intext:"Login" inurl:/secure
 
