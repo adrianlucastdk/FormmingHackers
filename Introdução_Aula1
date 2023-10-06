@@ -29,13 +29,22 @@ Client-Side : Quando é executado no navegador
 Serv-Side : Quando é executado no servidor
 
 Google Dorks -
-Usa o Google Busca e outras aplicações do Google para encontrar brechas de segurança na configuração ou nos códigos utilizados pelos sítios web
+Usa consultas de pesquisa avançadas para revelar informações ocultas do google
+Encontrar brechas de segurança na configuração ou nos códigos utilizados pelos sítios web
+Comandos de pesuisa específicos - Parâmetros especiais 
+                                - Operadores de pesuisa
 
 Comandos Básicos -
 
 diretorio list - site:.(link do site alvo) index of
 
 Scripts de Dorks - 
-intitle
-inurl
-intext
+intitle:           (Palavra chave no título do site)
+inurl:             (Palavra chave na URL do site)
+intext:            (Palavra chave na descrição do site)
+site:              (Site específicos)
+filetype:          (Tipos de arquivos específicos)
+cache:             (Acessar versão/arquivos antigos ou removidos do site)
+:ftp               (Encontrar servidor FTP > geralmente armazenam grande quantidade de arquivos)
+filetype:log       (Pesuisar arquivos de LOG)
+
