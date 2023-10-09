@@ -19,7 +19,8 @@ Um script que é injetado em um sistema através de alguma falha
 
 XSS - 
 Permissão de código Java Script
-Um tipo de injeção, em que scripts maliciosos são injetadas em sites através aplicação web para enviar código malicioso, geralmente na forma de um script do lado do navegador.
+Um tipo de injeção, em que scripts maliciosos são injetadas em sites através aplicação web para enviar código malicioso,
+geralmente na forma de um script do lado do navegador.
 
 Vulnerabilidade : É a fraqueza, que pode ser explorada
 Falha : Quando essa fraqueza é aproveitada
