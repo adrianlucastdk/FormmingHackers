@@ -1,0 +1,24 @@
+Primeiramente, precisamos decorar alguns padrões/normas !!
+
+ISO 27001  -     Essa norma aborda os padrões para sistemas de gestão da segurança da informação 
+
+ISO 27002 -    Aborda as boas práticas ligadas a segurança da informação, indica uma série de possiveis controles dentro de cada contexto da área de segurança
+
+PCI-DSS -      Essa norma foi criada para auxiliar organizações que processam pagamentos por cartões de crédito, na prevenção de fraudes, através de maior controle e sua exposição 
+
+ITIL -         É conjunto de boas práticas para gestão, operação e manutenção de serviços de TI
+
+
+Terminologias importantes 
+
+Vulnerabilidade -   É uma fragilidade que pode fornecer uma porta de entrada para um atacante!
+
+Ameaça -            É quando um agente ou uma ação se aproveita dessa vulnerabilidade!
+
+Risco -            Impacto X Probabilidade da ameaça ocorrer!
+
+Ataque -           Quando ocorre a ameaça sobre a vulnerabilidade!
+
+Exploit -          Programa capaz de explorar uma vulnerabilidade!
+
+Payload -          São códigos de um programa malicioso que executam ações nocivas!
