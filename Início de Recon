@@ -1,0 +1,14 @@
+conexão ssh
+ssh root@segfault.net
+password - segfault
+amass enum  -passive  -d google.com
+
+amass db -names -d google.com (Teste de banco de dados de domínios)
+
+host (site) (testar se o site está apontando para algum lugar)
+
+ping (site) (enviar pacotes para ver o site está ativo)
+
+nmap (site) (verificar quais portas estão abertas)
+
+nmap -sC -A (servidor, camadas e alguns scripts) 
