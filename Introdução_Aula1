@@ -48,4 +48,5 @@ filetype:          (Tipos de arquivos específicos)
 cache:             (Acessar versão/arquivos antigos ou removidos do site)
 :ftp               (Encontrar servidor FTP > geralmente armazenam grande quantidade de arquivos)
 filetype:log       (Pesuisar arquivos de LOG)
+site: *.(site)     (procurar sub domínios)
 
